@@ -1,0 +1,6 @@
+@TenantApiReact.Server_HostAddress = http://localhost:5137
+
+GET {{TenantApiReact.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
